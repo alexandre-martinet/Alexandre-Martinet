@@ -1,21 +1,21 @@
 # Bienvenue sur mon GitHub !
 
 ## À propos de moi
-Bonjour, je suis **Alex**, un passionné de cybersécurité et débutant en programmation. Actuellement, je me spécialise dans le **pentest** (test d'intrusion). J'adore explorer de nouvelles technologies et résoudre des problèmes complexes liés à la sécurité informatique.
+Bonjour, je suis **Alex**, un passionné de cybersécurité et débutant en programmation. J'adore explorer de nouvelles technologies et résoudre des problèmes complexes liés à la sécurité informatique. Le milieu de l'informatique est pour moi un milieu passionant et enrichissant je souhaite faire plein de projet a l'avenir en rapport avec tout ça en particulier me spécialiser en cybersécurité.
 
 ---
 
-## Projets en cours
-- **[Fansite Féerique](#)** : Un site web dédié à un univers féerique, inspiré de personnages fantastiques. 🌟
-- **Scripts de Pentest** : Développement de scripts simples pour automatiser des tests d'intrusion.
+## Projets en cours/fini
+- **[Fansite Sur Shrek](#)** : Un site web dédié à un univers féerique, inspiré de personnages fantastiques. 🌟
 - **Apprentissage Python** : Petits projets pour renforcer mes compétences en programmation.
+- **Crée et gérer des machines virtuelles** : Projet pour débuter avec les machines virtuelles et avec l'univers de la cybersécurité.
+- **Création de configuration matérielles pour différents usage** : Création de configuration matérielles pour apprendre et à s'adapter a des utilisations aux meilleurs prix.
 
 ---
 
 ## Compétences
 - **Langages** : Python (niveau débutant)
-- **Outils** : Wireshark, nmap, Burp Suite
-- **Autres** : Connaissances de base en réseaux et protocoles de communication
+- **Autres** : Connaissances de base en réseaux et protocoles de communication, connaissances de bases en hardware et en machine virtuelle
 
 ---
 
