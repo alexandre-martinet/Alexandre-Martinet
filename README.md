@@ -21,7 +21,7 @@ Bonjour, je suis **Alex**, un passionné de cybersécurité et débutant en prog
 
 ## Me contacter
 - **Email** : [alexandremart83@gmail.com](mailto:alexandremart83@gmail.com)
-- **LinkedIn** : [[Mon Profil LinkedIn](https://www.linkedin.com/in/alexandre-martinet-8b089833a/)](#)
+- **LinkedIn** : [[Mon Profil LinkedIn](https://www.linkedin.com/in/alexandre-martinet-8b089833a/)]
 
 ---
 
