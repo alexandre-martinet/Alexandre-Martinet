@@ -1,6 +1,6 @@
 # Bienvenue sur mon GitHub !
 
-![ ](imagegit/img66.jpeg)
+![bannière git](imagegit/img66.jpeg)
 
 ## À propos de moi
 Bonjour, je suis **Alex**, un passionné de cybersécurité et débutant en programmation. J'adore explorer de nouvelles technologies et résoudre des problèmes complexes liés à la sécurité informatique. Le milieu de l'informatique est pour moi un milieu passionnant et enrichissant. Je souhaite réaliser de nombreux projets à l'avenir, en particulier dans le domaine de la cybersécurité.
